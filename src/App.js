@@ -24,9 +24,9 @@ function App() {
     //   </header>
     // </div>
     <>
-    {/* <Home></Home> */}
-    {/* <DayNight></DayNight> */}
-    {/* <Text></Text> */}
+    <Home></Home>
+    <DayNight></DayNight>
+    <Text></Text>
     <Api></Api>
     </>
   );
